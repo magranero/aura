@@ -48,7 +48,7 @@
         router
         to="/about"
       >
-        <span>About</span>
+        <span>Acerca de</span>
         <v-icon>toc</v-icon>
       </v-btn>
 

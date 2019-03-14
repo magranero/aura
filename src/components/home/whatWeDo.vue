@@ -2,10 +2,10 @@
     <v-container class="pa-0">
         <v-layout wrap align-center justify-center row fill-height >
            <v-flex xs12 md3 lg3 class="pa-2">
-               <p class="google-font" style="font-size:180%">What we do?</p>
-               <p class="google-font" style="font-size:110%">Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology.</p>
+               <p class="google-font" style="font-size:180%">Qué hacemos?</p>
+               <p class="google-font" style="font-size:110%">Los GDGs (Google Developer Groups) son para desarrolladores que estén interesados en la tecnología de desarrollo de Google.</p>
 
-               <p class="google-font" style="font-size:110%">About different Google technologies</p>
+               <p class="google-font" style="font-size:110%">Sobre diferentes tecnologías de Google</p>
                <img src="@/assets/img/svg/angular.svg" width="30vh" alt="" srcset=""> &nbsp;&nbsp;&nbsp;
                 <img src="@/assets/img/svg/gcp.svg" width="30vh" alt="" srcset="">&nbsp;&nbsp;&nbsp;
                 <img src="@/assets/img/svg/android.svg" width="30vh" alt="" srcset="">&nbsp;&nbsp;&nbsp;
@@ -22,26 +22,26 @@
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">chat_bubble</v-icon>
-                        <p class="google-font" style="font-size:130%">Talks</p>
-                        <p class="google-font" style="font-size:110%">Get updated with the latest news and announcements</p>
+                        <p class="google-font" style="font-size:130%">Charlas</p>
+                        <p class="google-font" style="font-size:110%">Actualízate con las últimas noticias y anuncios.</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">code</v-icon>
                         <p class="google-font" style="font-size:130%">Codelabs</p>
-                        <p class="google-font" style="font-size:110%">Get hands-on experience and guidance from the community members</p>
+                        <p class="google-font" style="font-size:110%">Experiencia práctica y orientación de los miembros de la comunidad.</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">school</v-icon>
-                        <p class="google-font" style="font-size:130%">Campus Roadshows</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <p class="google-font" style="font-size:130%">Formaciones</p>
+                        <p class="google-font" style="font-size:110%">Compartir conocimientos en diferentes empresas, colegios y universidades.</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">airplay</v-icon>
-                        <p class="google-font" style="font-size:130%">Live Viewing Parties</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <p class="google-font" style="font-size:130%">Quedadas para eventos en vivo</p>
+                        <p class="google-font" style="font-size:110%">Juntarnos para retransmitir un evento importante y poder comentarlo juntos</p>
                     </v-flex>
 
                 </v-layout>

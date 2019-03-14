@@ -1,7 +1,7 @@
 {
     "AboutSession":[
         {
-            "LinkName":"GDG Jalandhar",
+            "LinkName":"GDG Santander",
             "Link":"/"
         },
         {
@@ -13,22 +13,18 @@
             "Link":"https://www.womentechmakers.com/"
         },
         {
-            "LinkName":"Become a Member",
-            "Link":"https://www.meetup.com/GDG-Jalandhar/"
+            "LinkName":"Unirse como miembro",
+            "Link":"https://www.meetup.com/es-ES/gdg_santander/"
         }
     ],
     "ChapterResourcesSession":[
         {
-            "LinkName" : "Become a Sponsor",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "LinkName" : "Quiero ser patrocinador",
+            "Link" : "mailto:info@gdgsantander.com"
         },
         {
-            "LinkName" : "Call for Speaker",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
-        },
-        {
-            "LinkName" : "Media Kit",
-            "Link" : "https://drive.google.com/drive/folders/16rHDaHbuS_YApMWgJHUxygpd-A5gCkLK"
+            "LinkName" : "Quiero ser un Speaker",
+            "Link" : "mailto:info@gdgsantander.com"
         }
     ],
     "DevConsole":[
@@ -51,12 +47,12 @@
     ],
     "FooterEndSession":[
         {
-            "LinkName" : "Code of Conduct",
-            "Link" : "https://docs.google.com/document/d/1Wz_w6Z7usMnXKFMpOY4IPbA35twK7Uc4CAxScGDiwOk/edit"
+            "LinkName" : "Código de conducta",
+            "Link" : "/"
         },
         {
-            "LinkName" : "Terms & Servies",
-            "Link" : "https://docs.google.com/document/d/14g3fv9NItiB8Hd-YGYyVYd2N4LRxe6Bx3syWse_wsiA/edit?usp=sharing"
+            "LinkName" : "Política de privacidad",
+            "Link" : "/"
         }
     ]
 }

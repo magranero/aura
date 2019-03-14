@@ -1,0 +1,25 @@
+[debug] [2019-03-14T01:03:43.159Z] ----------------------------------------------------------------------
+[debug] [2019-03-14T01:03:43.161Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2019-03-14T01:03:43.161Z] CLI Version:   6.5.0
+[debug] [2019-03-14T01:03:43.161Z] Platform:      darwin
+[debug] [2019-03-14T01:03:43.161Z] Node Version:  v10.15.3
+[debug] [2019-03-14T01:03:43.162Z] Time:          Thu Mar 14 2019 02:03:43 GMT+0100 (GMT+01:00)
+[debug] [2019-03-14T01:03:43.162Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-03-14T01:03:43.171Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-03-14T01:03:43.172Z] > authorizing via signed-in user
+[debug] [2019-03-14T01:03:43.172Z] [iam] checking project gdgsantander-5f91b for permissions ["firebase.projects.get"]
+[debug] [2019-03-14T01:03:43.174Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/gdgsantander-5f91b:testIamPermissions  
+
+[debug] [2019-03-14T01:03:44.087Z] <<< HTTP RESPONSE 200
+[debug] [2019-03-14T01:03:44.089Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/gdgsantander-5f91b  
+ 
+[debug] [2019-03-14T01:03:44.976Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/mario/Documents/GDG Santander/web/aura'...
+[info] 
+[debug] [2019-03-14T01:03:44.979Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/232751320895/clients/_:getWebAppConfig  
+ 
+[debug] [2019-03-14T01:03:45.306Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: dist
+[info] ✔  hosting: Local server: http://localhost:5000
